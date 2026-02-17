@@ -14,3 +14,4 @@ git pull
 git fetch'''
 
 git read git
+git learn git

@@ -13,4 +13,6 @@ git push
 git pull
 git fetch'''
 
-git read git
+# add local git read
+
+# add git learn git

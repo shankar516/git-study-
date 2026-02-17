@@ -12,3 +12,5 @@ git commit -m
 git push
 git pull
 git fetch'''
+
+git read git
